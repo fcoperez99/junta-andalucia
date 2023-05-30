@@ -1,7 +1,23 @@
 .lg{
     color: green;
+    margin: 10px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .logo{
     width: 200px;
+    margin: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
+}
+
+a{
+    display:flex;
+    justify-content: center;
 }

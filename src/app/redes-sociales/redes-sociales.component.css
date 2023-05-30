@@ -1,3 +1,18 @@
+a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 12px;
+}
+
+.letras{
+    display:flex;
+    justify-content: right;
+    align-items: center;
+}
+
+a:hover{
+    text-decoration: underline;
+}
 
 .logo-arriba{
     color: #fff;
